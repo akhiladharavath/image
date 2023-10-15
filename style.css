@@ -1,0 +1,31 @@
+.add-form {
+            display: none;
+            margin-bottom: 20px;
+        }
+        .pagination {
+            margin-top: 1px;
+            
+        }
+
+        .pagination span {
+            display: inline-block;
+            padding: 8px;
+            background-color: #f2f2f2;
+            cursor: pointer;
+            color:blue;
+        }
+
+        .pagination span:hover {
+            background-color: #ddd;
+        }
+        body{
+            justify-content: center;
+            
+           
+        }
+        table{
+            border-collapse: collapse;
+        }
+        table, td, th {
+  border: 1px solid;
+}
